@@ -14,3 +14,6 @@ Design Science (DS) has been used as the main research methodology. DS provides 
 - Iteration 2: translate LESCO videos into text by using Deep Learning
 - Iteration 3: evolution of Iteration 1 with other dimensional reduction algoritms.
 
+## Acknowledgements
+
+- This project has been actively supported with LESCO translators, and research guidance over inclusive technologies by IncluTec from the Intituto Tecnologico de Costa Rica. 
