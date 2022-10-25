@@ -20,6 +20,7 @@ Design Science (DS) has been used as the main research methodology. DS provides 
 - Iteration 2: translate LESCO videos into text by using Deep Learning
 - Iteration 3: evolution of Iteration 1 with other dimensional reduction algoritms.
 - Iteration 4: cherry-picked frames for each video were selected to reduce the amount of frames for training (from each video): the hypothesis is that key frames that show relevant hand shapes are sufficient for sign recognition.
+- Contie2022: Iteration 3 code-base for the paper "Costa Rican Sign Language Recognition Using MediaPipe"
 
 ## Acknowledgements
 
