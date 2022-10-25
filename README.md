@@ -24,4 +24,4 @@ Design Science (DS) has been used as the main research methodology. DS provides 
 
 ## Acknowledgements
 
-- This project has been actively supported with LESCO translators, and research guidance over inclusive technologies by IncluTec from the Intituto Tecnologico de Costa Rica. 
+- This project has been actively supported with LESCO translators, and research guidance over inclusive technologies by IncluTec from the Intituto Tecnologico de Costa Rica and the school of Computer Science of the Universidad Latina de Costa Rica.
